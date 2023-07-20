@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    font-size: 18px;
+}
+
+h1,
+h2,
+p {
+    margin-top: 0;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 0;
+}
+
+h2 {
+    font-size: 26px;
+}
+
+a {
+    color: #ff8000;
+}
+
+/* layout */
+header,
+section {
+    padding: 50px;
+}
+
+header {
+    background-color: #ff8000;
+    color: #000;
+}
+
+.section-one {
+    background-color: #000;
+    color: #fff;
+}
+
+.section-two-link {
+    color: #000;
+}
+
+/* button */
+.btn {
+    display: inline-block;
+    padding: 15px 25px;
+    margin-right: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.btn-yellow {
+    background-color: #ff8000;
+    color: #fff;
+}
+
+.btn-yellow:hover,
+.btn-yellow:focus {
+    background-color: aliceblue;
+    color: #000;
+}
+
+.btn-dark {
+    background-color: #000;
+    color: #ff8000;
+}
+
+.btn-dark:hover,
+.btn-dark:focus {
+    background-color: #ff8000;
+    color: #fff;
+}
+
+
+
+
+
