@@ -1,0 +1,40 @@
+body {
+    font-size: 16px;
+}
+
+/* Typography */
+h1 {
+    font-size: 48px;
+    color: #2e7ad3;
+    text-align: center;
+    margin: 45px 0;
+}
+
+h2 {
+    font-size: 32px;
+    color: #104c90;
+    margin: 0 0 10px 0;
+}
+
+
+/* Layout  */
+.blog-post {
+    width: 450px;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: #f1f1f1;
+}
+
+/* Links */
+a {
+    color: #ff8000;
+}
+
+a:hover,
+a:focus {
+    color: #00afff;         ;
+}
+                
+.read-more {
+    margin-bottom: 0;
+}
